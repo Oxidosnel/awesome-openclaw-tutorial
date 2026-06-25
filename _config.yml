@@ -2,8 +2,8 @@
 title: Awesome OpenClaw Tutorial
 description: 从零开始玩转 OpenClaw：最全面的中文教程
 baseurl: ""
-url: "https://awesome.tryopenclaw.asia"
-repository: xianyu110/awesome-openclaw-tutorial
+url: "https://awesomeskills.online"
+repository: Oxidosnel/awesome-openclaw-tutorial
 
 # Theme
 theme: jekyll-theme-cayman
